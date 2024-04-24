@@ -1,0 +1,5 @@
+{
+    "function": "minecraft:set_custom_data",
+    "tag": "{sample:true,test:5,list:[1,2,3]}"
+  }
+  
